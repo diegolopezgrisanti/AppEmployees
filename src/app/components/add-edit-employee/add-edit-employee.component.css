@@ -1,0 +1,23 @@
+.example-container {
+  width: 100%;
+}
+
+.btn-success {
+  background-color: #f44336;
+  border-color: #f44336;
+}
+
+.mda-form-msg {
+  color: #f44336;
+}
+
+mat-label {
+  color: black;
+}
+
+.formulario {
+  background: rgb(191, 191, 191);
+  border-radius: 10px;
+  padding-bottom: 10px;
+  margin-left: 10px;
+}
